@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-22 19:38:56</sys_created_on>
+        <sys_id>23bc88efdb03230037132bfa4b96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_309430_message_o_message_of_the_day_table.x_309430_message_o.user</sys_name>
+        <sys_package display_value="Message of the Day" source="x_309430_message_o">63bc44afdb03230037132bfa4b9619ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Message of the Day">63bc44afdb03230037132bfa4b9619ee</sys_scope>
+        <sys_security_acl display_value="x_309430_message_o_message_of_the_day_table">67bc88efdb03230037132bfa4b961927</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_23bc88efdb03230037132bfa4b96192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-22 19:38:56</sys_updated_on>
+        <sys_user_role display_value="x_309430_message_o.user" name="x_309430_message_o.user">23bc48efdb03230037132bfa4b961975</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

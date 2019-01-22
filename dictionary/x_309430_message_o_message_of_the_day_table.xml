@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="Message of the Day Table" max_length="40" name="x_309430_message_o_message_of_the_day_table" type="collection"/>
+</database>
